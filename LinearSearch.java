@@ -20,6 +20,9 @@ public class LinearSearch {
             if (arr[i] == n) {
                 System.out.println("found");
                 found = true;
+                else{
+                 System.out.println("Not found");
+                
                 break;
             }
         }
