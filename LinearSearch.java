@@ -22,6 +22,7 @@ public class LinearSearch {
                 found = true;
                 else{
                  System.out.println("Not found");
+                 Not found = false;
                 
                 break;
             }
